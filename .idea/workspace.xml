@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15cbd1ab-d61a-4099-bda4-fc52593918ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Aula2Quadilateros/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula2Quadilateros/Quadrilatero.java" afterDir="false" />
+    <list default="true" id="15cbd1ab-d61a-4099-bda4-fc52593918ff" name="Changes" comment="Exercício de métodos em Java">
+      <change afterPath="$PROJECT_DIR$/src/Aula3Quadrilateros/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula3Quadrilateros/Quadrilatero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,13 +36,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Aula2Quadilateros.Main">
-    <configuration name="Aula2Quadilateros.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Aula3Quadrilateros.Main">
+    <configuration name="Aula2Quadilateros.Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aula2Quadilateros.Main" />
       <module name="MetodosJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Aula2Quadilateros.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aula3Quadrilateros.Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula3Quadrilateros.Main" />
+      <module name="MetodosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula3Quadrilateros.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,11 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Aula2Quadilateros.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -85,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659881570118</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercício de métodos em Java">
+      <created>1659891061824</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659891061824</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
